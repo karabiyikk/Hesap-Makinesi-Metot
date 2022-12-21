@@ -1,5 +1,3 @@
-package Metotlar;
-
 import java.util.Scanner;
 
 public class HesapMakinesi {
